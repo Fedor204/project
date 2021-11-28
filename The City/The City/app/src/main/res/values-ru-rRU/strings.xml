@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Мой Калининград</string>
+
+    <string name="city_name">Калининград</string>
+    <string name="city_address">Калининград, Россия</string>
+    <string name="about_text">:)</string>
+
+    <!--=== GOOGLE API KEY STRING ============================================================== -->
+    <!-- API KEY FOR MAP -->
+    <string name="api_key">AIzaSyD02kacRxmKyXQZP_hUPsLo-73DW7X2IDE</string>
+
+
+    <!--=== Nav Drawer Menu Items ============================================================== -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_nav_all">Все места</string>
+    <string name="title_nav_fav">Избранное</string>
+    <string name="title_nav_news">Новостная информация</string>
+
+    <string name="title_nav_featured">Рекомендуемые места</string>
+    <string name="title_nav_tour">Достопримечательности</string>
+    <string name="title_nav_food">Кафе \u0026 Рестораны</string>
+    <string name="title_nav_hotels">Отели</string>
+    <string name="title_nav_ent">Развлечения</string>
+    <string name="title_nav_sport">Спорт</string>
+    <string name="title_nav_shop">Шопинг</string>
+    <string name="title_nav_transport">Транспорт</string>
+    <string name="title_nav_religion">Религия</string>
+    <string name="title_nav_public">Гос.службы</string>
+    <string name="title_nav_money">Банкоматы</string>
+
+    <!--=== activity FullScreenImage =========================================================== -->
+    <string name="image_of">%1$d of %2$d</string>
+
+    <!--=== activity Main ====================================================================== -->
+    <string name="press_again_exit_app">Нажмите еще раз чтобы выйти</string>
+
+    <!--=== activity Maps ====================================================================== -->
+    <string name="no_item_at">Нет элемента в</string>
+    <string name="dialog_content_gps">
+        GPS отключен в вашем устройстве. Хотите включить?
+    </string>
+    <string name="activity_title_maps">@string/title_nav_all</string>
+
+    <!--=== activity PlaceDetails ============================================================== -->
+    <string name="add_favorite">добавлено в избранное</string>
+    <string name="remove_favorite">удалить из избранного</string>
+    <string name="no_phone_number">нет телефона</string>
+    <string name="no_website">нет сайта</string>
+    <string name="fail_dial_number">Не удается набрать номер телефона</string>
+    <string name="fail_open_website">Не удается открыть сайт</string>
+    <string name="unable_create_map">
+     Сожалею! Невозможно создать карты</string>
+    <string name="failed_load_details">
+        Не удалось загрузить информацию о месте загрузки</string>
+    <string name="photos_title">Фотографии</string>
+    <string name="description_title">Описание</string>
+    <string name="map_title">Карта</string>
+    <string name="map_view">Смотреть</string>
+    <string name="map_navigate">ПЕРЕЙТИ</string>
+
+    <!--=== activity Search ==================================================================== -->
+    <string name="hint_search">Найти место...</string>
+    <string name="please_fill">Пожалуйста, заполните поисковый запрос</string>
+
+    <!--=== activity Setting =================================================================== -->
+    <string name="default_notification_channel_id">По умолчанию</string>
+    <string name="pref_category_notif">Уведомления</string>
+    <string name="pref_category_display">Дисплей</string>
+    <string name="pref_category_other">Другое</string>
+
+    <string name="pref_title_notif">Всплывающие уведомления</string>
+    <string name="pref_title_ringtone">Рингтон</string>
+    <string name="pref_title_vibrate">Вибрация</string>
+    <string name="pref_title_cache">Очистить кэш изображений</string>
+        <string name="pref_title_theme">Цвет темы</string>
+    <string name="pref_title_rate">Оценить</string>
+    <string name="pref_title_about">О приложениии</string>
+    <string name="pref_ringtone_silent">Тишина</string>
+
+    <string name="pref_key_notif">key_notifications</string>
+    <string name="pref_key_ringtone">key_ringtone</string>
+    <string name="pref_key_vibrate">key_vibrate</string>
+    <string name="pref_key_reset_cache">key_reset_cache</string>
+    <string name="pref_key_theme">key_theme</string>
+    <string name="dialog_confirm_title">Подтверждение</string>
+    <string name="dialog_about_title">О нас<нас></нас></string>
+    <string name="activity_title_settings">Настройки</string>
+
+    <string name="message_clear_image_cache">Вы уверены, что хотите очистить кеш изображений?</string>
+    <string name="message_after_clear_image_cache">
+Кэш изображений успешно очищен</string>
+    <string name="title_dialog_theme">Цвет темы</string>
+    <string name="grant_permission_account_storage">Предоставьте учетную запись, разрешение на хранение, чтобы включить</string>
+    <string name="content_term">
+        Пампам
+    </string>
+
+
+    <!--=== activity Splash ==================================================================== -->
+    <string name="splash_welcome_text">Добро Пожаловать!</string>
+    <string name="splash_desc_text">Загружаем интересные места</string>
+
+    <!--=== fragment Category ================================================================== -->
+    <string name="refresh_failed">Не удалось обновить</string>
+    <string name="load_of">Load %1$d of %2$d</string>
+        <string name="load_success">Успешная загрузка данных</string>
+
+
+    <!-- ==================== OTHERS STRING ==================================================== -->
+    <string name="action_settings">Настройки</string>
+    <string name="no_internet">"Нет соединения с интернетом"</string>
+    <string name="task_running">
+            Задача все еще выполняется</string>
+    <string name="no_item">Нет элемента</string>
+
+    <!--Basic action Text-->
+    <string name="OK">OK</string>
+    <string name="YES">ДА</string>
+    <string name="NO">НЕТ</string>
+    <string name="SETTING">НАЙСТРОЙКИ</string>
+    <string name="CANCEL">ОТМЕНА</string>
+    <string name="SAVE">СОХРАНИТЬ</string>
+    <string name="DISMISS">ЗАКРЫТЬ</string>
+    <string name="HIDE">СКРЫТЬ</string>
+    <string name="RETRY">ПОВТОРИТЬ</string>
+    <string name="DETAILS">ПОДРОБНОСТИ</string>
+    <string name="FAILED">НЕУДАЧНО</string>
+
+
+</resources>

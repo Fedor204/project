@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794084931874",
+    "firebase_url": "https://myitprogram-9f2da.firebaseio.com",
+    "project_id": "myitprogram-9f2da",
+    "storage_bucket": "myitprogram-9f2da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794084931874:android:d2eb59d1687ffa9fef4d7b",
+        "android_client_info": {
+          "package_name": "com.app.mykaliningrad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794084931874-i6rbk3u8a92imd92rjontrsdc86jrquk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD02kacRxmKyXQZP_hUPsLo-73DW7X2IDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794084931874-i6rbk3u8a92imd92rjontrsdc86jrquk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
